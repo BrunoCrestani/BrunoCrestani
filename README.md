@@ -1,5 +1,5 @@
 
-**'Estudante de Ciência da Computação na UFPR - Universidade Federal do Paraná (2022 - 2026)'**
+**Estudante de Ciência da Computação na UFPR - Universidade Federal do Paraná (2022 - 2026)**
 
 ### Contato:
 [![LinkedIn](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoccrestani)
